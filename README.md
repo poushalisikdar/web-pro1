@@ -1,2 +1,2 @@
 # web-pro1
-learning project
+learning about web development
